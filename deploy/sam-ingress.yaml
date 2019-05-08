@@ -14,6 +14,6 @@ spec:
       - backend:
           serviceName: sam
           servicePort: 3000
-        path: /sam
+        path: /mighty-fine
 status:
   loadBalancer: {}
