@@ -1,0 +1,1 @@
+{"jobID":"facaa867-2a12-24f9-332a-0b4400fac6d8","spec":{"type":"policy","cause":{"Message":"","User":"Sam Lock \u003csam@swlock.co.uk\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
